@@ -1,0 +1,27 @@
+2020-04-27 11:04:231 INFO  BrowserSelector :22 - launching the  Chrome browser
+2020-04-27 11:04:707 INFO  BrowserSelector :22 - launching the  Chrome browser
+2020-04-27 11:04:718 INFO  HomePage :33 - clicking on login and register link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Council Tax')]'
+2020-04-27 11:04:750 INFO  LoginPage :37 - getting text from : [[ChromeDriver: chrome on WINDOWS (1549d2518cb1475b3fff532b29f6ef3a)] -> xpath: //h2[contains(text(),'Log in')]]
+2020-04-27 11:04:482 INFO  BrowserSelector :22 - launching the  Chrome browser
+2020-04-27 11:04:63 INFO  HomePage :33 - clicking on login and register link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Council Tax')]'
+2020-04-27 11:04:223 INFO  LoginPage :45 - Entering email : abc123@gmail.comto email field: [[ChromeDriver: chrome on WINDOWS (3818ee80ba5bbd78259392166fcfd192)] -> xpath: //input[@name='username']]
+2020-04-27 11:04:336 INFO  LoginPage :51 - Entering password : abc786to password field: [[ChromeDriver: chrome on WINDOWS (3818ee80ba5bbd78259392166fcfd192)] -> xpath: //input[@name='password']]
+2020-04-27 11:04:33 INFO  LoginPage :57 - clicking on login button : [[ChromeDriver: chrome on WINDOWS (3818ee80ba5bbd78259392166fcfd192)] -> xpath: //input[@name='_login']]
+2020-04-27 11:04:69 INFO  LoginPage :62 - getting text from : [[ChromeDriver: chrome on WINDOWS (3818ee80ba5bbd78259392166fcfd192)] -> xpath: //span[contains(text(),'Invalid Username')]]
+2020-04-27 11:04:308 INFO  BrowserSelector :22 - launching the  Chrome browser
+2020-04-27 11:04:423 INFO  HomePage :38 - clicking on counciltax link : [[ChromeDriver: chrome on WINDOWS (ff66d7e18193d41f14e83d1d6c184e17)] -> xpath: //span[contains(text(),'Council Tax')]]
+2020-04-27 11:04:458 INFO  CouncilTaxPage :25 - Getting text from [[ChromeDriver: chrome on WINDOWS (ff66d7e18193d41f14e83d1d6c184e17)] -> xpath: //h1[contains(text(),'Council Tax')]]
+2020-04-27 11:04:172 INFO  BrowserSelector :22 - launching the  Chrome browser
+2020-04-27 11:04:68 INFO  HomePage :38 - clicking on counciltax link : [[ChromeDriver: chrome on WINDOWS (786e532bcef4221d76b7b606d79b0715)] -> xpath: //span[contains(text(),'Council Tax')]]
+2020-04-27 11:04:645 INFO  CouncilTaxPage :32 - Clicking on single person discount tab : Proxy element for: DefaultElementLocator 'By.xpath: //h2[contains(text(),'Apply for single person discount')]'
+2020-04-27 11:04:337 INFO  CouncilTaxPage :38 - Clicking on apply button : Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Apply')]'
+2020-04-27 11:04:400 INFO  LoginPage :37 - getting text from : [[ChromeDriver: chrome on WINDOWS (786e532bcef4221d76b7b606d79b0715)] -> xpath: //h2[contains(text(),'Log in')]]
+2020-04-27 11:04:194 INFO  BrowserSelector :22 - launching the  Chrome browser
+2020-04-27 11:04:492 INFO  HomePage :33 - clicking on login and register link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Council Tax')]'
+2020-04-27 11:04:515 INFO  LoginPage :37 - getting text from : [[ChromeDriver: chrome on WINDOWS (eecfac692a58e29161e8bba4eee1a64e)] -> xpath: //h2[contains(text(),'Log in')]]
+2020-04-27 11:04:180 INFO  BrowserSelector :22 - launching the  Chrome browser
+2020-04-27 11:04:970 INFO  HomePage :33 - clicking on login and register link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Council Tax')]'
+2020-04-27 11:04:134 INFO  LoginPage :45 - Entering email : abc123@gmail.comto email field: [[ChromeDriver: chrome on WINDOWS (316fca5031ebbab3a6ddfbec04713d81)] -> xpath: //input[@name='username']]
+2020-04-27 11:04:226 INFO  LoginPage :51 - Entering password : abc786to password field: [[ChromeDriver: chrome on WINDOWS (316fca5031ebbab3a6ddfbec04713d81)] -> xpath: //input[@name='password']]
+2020-04-27 11:04:748 INFO  LoginPage :57 - clicking on login button : [[ChromeDriver: chrome on WINDOWS (316fca5031ebbab3a6ddfbec04713d81)] -> xpath: //input[@name='_login']]
+2020-04-27 11:04:777 INFO  LoginPage :62 - getting text from : [[ChromeDriver: chrome on WINDOWS (316fca5031ebbab3a6ddfbec04713d81)] -> xpath: //span[contains(text(),'Invalid Username')]]
